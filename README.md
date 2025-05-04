@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shun Li, a data scientist with 4 years experience in RecoSys, LLM, Ads and Causal Inference!
-- 👀 I’m interested in GenAI and Large Language Model, especially how they shake up the business world.
+- 👀 I’m interested in GenAI and Large Language Model, especially how they shake up and bend the growth the business world.
 - 🌱 I’m currently MISM student in Carnegie Mellon University, still learning... and occasionally debugging my life.
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/shunl2000/)
+- 🚀 I am actively looking for data scientist or AI/ML Engineer roles in AI. Let’s build something meaningful together.
+- 📫 Connect and chat with me on [Linkedin](https://www.linkedin.com/in/shunl2000/)
