@@ -5,6 +5,6 @@
 
 🌱 I’m currently MISM student in **Carnegie Mellon University**, still learning... and occasionally debugging my life.
 
-🚀 I am actively looking for **data scientist or AI/ML Engineer roles in AI application**. 
+🚀 I am actively looking for **Data Scientist or AI/ML Engineer roles in AI application**. 
 
 📫 Connect and chat with me on [Linkedin](https://www.linkedin.com/in/shunl2000/)
